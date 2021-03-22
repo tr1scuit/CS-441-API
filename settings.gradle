@@ -1,2 +1,1 @@
-include ':app'
-rootProject.name = "CS 441 API"
+include 'android', 'core'
